@@ -1,0 +1,26 @@
+{
+  "name": "simple-express",
+  "version": "1.0.0",
+  "description": "Simple Express Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tech-itrace/simple-express.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Srilekha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tech-itrace/simple-express/issues"
+  },
+  "homepage": "https://github.com/tech-itrace/simple-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
